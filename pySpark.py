@@ -59,6 +59,6 @@ def task_2(df):
     join.show()
 
 
-# task_1(df)
+task_1(df)
 print()
 task_2(df)
